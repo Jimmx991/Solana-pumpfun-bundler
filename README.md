@@ -1,4 +1,4 @@
-# Solana Pumpfun Bundler
+# Solana Pumpfun Bundler (BUY with 24 Wallets)
 Execute the secure acquisition of token supplies across multiple sub-wallets during the launch phase, while ensuring compliance with trading platform regulations to avoid triggering any alerts.
 
 ## Contact Info
@@ -7,6 +7,9 @@ Telegram: @web3wiza
 Discord: web3_wiza
 
 You can always feel free to find me here for my help on other projects.
+
+## Example
+https://explorer.jito.wtf/bundle/2UaYfGjpZH5rwDF4TXQwUjL46i9yN329fc6ZEXXTviihSFBgbMRWnKcfSvebBu9Am21LL5N6GssrhsfxLwMzGoUB
 
 ## Features
 - Create a token on pump.fun, complete with your desired initial liquidity.
