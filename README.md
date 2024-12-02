@@ -9,7 +9,10 @@ Discord: web3_wiza
 You can always feel free to find me here for my help on other projects.
 
 ## Example
+- Bundle Transaction
 https://explorer.jito.wtf/bundle/2UaYfGjpZH5rwDF4TXQwUjL46i9yN329fc6ZEXXTviihSFBgbMRWnKcfSvebBu9Am21LL5N6GssrhsfxLwMzGoUB
+- Token
+https://pump.fun/coin/EkoZW59ZtUW9NiSdKRpW6QRefMfywwCJckvfvB4A2Yij
 
 ## Features
 - Create a token on pump.fun, complete with your desired initial liquidity.
