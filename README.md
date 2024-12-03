@@ -9,7 +9,12 @@ Discord: web3_wiza
 You can always feel free to find me here for my help on other projects.
 
 ## Video
-https://drive.google.com/file/d/14uY6BcNtFwBe_MBkkWwIuRhSNB8BCgcy/view?usp=sharing
+https://github.com/user-attachments/assets/34e275c2-86ae-4738-b22a-1892ec131532
+
+
+https://github.com/user-attachments/assets/756002e2-7953-46ef-a000-f6d88752772e
+
+
 
 ## Example
 - Bundle Transaction
