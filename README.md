@@ -17,7 +17,7 @@ https://solscan.io/token/APxwhnG4LTPpHmRTB3vrtkefZsA6w3hv77wGU9xJvcRF
 
 ## Features
 - Create a token on pump.fun, complete with your desired initial liquidity.
-- Bundle snipe within the same block using up to 28 wallets, leveraging Jito technology and Lookup Table Address (LUT) capabilities.
+- Bundle snipe within the same block using up to 24 wallets, leveraging Jito technology and Lookup Table Address (LUT) capabilities.
 - Supports the migration of liquidity to Raydium through Raydium seeding.
 - Sell tokens from wallets utilizing Jito bundles at your discretion.
 - Collect Solana from sub-wallets after selling the remaining tokens.
