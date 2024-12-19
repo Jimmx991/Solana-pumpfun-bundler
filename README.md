@@ -47,6 +47,9 @@ https://github.com/user-attachments/assets/d1866009-a2f6-4db4-b5d0-4bbb25d4def3
 - **Bundle Overview:**  
   https://explorer.jito.wtf/bundle/453cef850c8419e324328c878b0f0c54ddd4eb58aded5d743e6ffdec018fb174
 
+Random Amount Buy & Sell
+https://explorer.jito.wtf/bundle/e06e13f01dc95afd03773da6e5d440f33f8be9c4d492239f5c8656e302c76904
+https://explorer.jito.wtf/bundle/4c7e5564e272c4a8f209e6b09eb18b7bd92e3bc3df07d9547d82294821dca6b6
 ---
 
 ## Features
