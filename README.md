@@ -6,7 +6,7 @@ This documentation outlines the process for securely acquiring token supplies ac
 
 ## Contact Information
 
-- **Telegram:** [MagicSolWiz](https://t.me/magicsolwiz)
+- **Telegram:** https://t.me/magicsolwiz
 - **Discord:** m_solwiz
 
 Feel free to reach out for assistance on other projects.
@@ -15,9 +15,9 @@ Feel free to reach out for assistance on other projects.
 
 ## Video Resources
 
-1. [Video Tutorial 1](https://github.com/user-attachments/assets/34e275c2-86ae-4738-b22a-1892ec131532)
-2. [Video Tutorial 2](https://github.com/user-attachments/assets/756002e2-7953-46ef-a000-f6d88752772e)
-3. [Video Tutorial 3](https://github.com/user-attachments/assets/d1866009-a2f6-4db4-b5d0-4bbb25d4def3)
+1. https://github.com/user-attachments/assets/34e275c2-86ae-4738-b22a-1892ec131532
+2. https://github.com/user-attachments/assets/756002e2-7953-46ef-a000-f6d88752772e
+3. https://github.com/user-attachments/assets/d1866009-a2f6-4db4-b5d0-4bbb25d4def3
 
 ---
 
@@ -27,23 +27,23 @@ Feel free to reach out for assistance on other projects.
 
 #### BUNDLE BUY
 - **Bundle Overview:**  
-  [Link to Bundle](https://explorer.jito.wtf/bundle/18f9ae8a56357058088335d864f08bebcd26b482c53c0c01904b1a89f233ae48)
+  https://explorer.jito.wtf/bundle/18f9ae8a56357058088335d864f08bebcd26b482c53c0c01904b1a89f233ae48
   
 - **Transaction Details:**
   - **Pool Creation + Jito Fee Instruction:**  
-    [Transaction Link](https://solscan.io/tx/2nvwWqPm49Dafmy1ms1q3jyubiPo5ZjfJSYoiaTBPNPtWhRqZJRr3BfbFPSFdiw7w3E1PNvN3WUVNXRNCMZ41AEW)
+    https://solscan.io/tx/2nvwWqPm49Dafmy1ms1q3jyubiPo5ZjfJSYoiaTBPNPtWhRqZJRr3BfbFPSFdiw7w3E1PNvN3WUVNXRNCMZ41AEW
   - **1st Buy Transaction:**  
-    [Transaction Link](https://solscan.io/tx/y5NnvD76Hc37btfDWETorgnEyNRMNxtN94hNUT16GjSEnR8GA42sPHerLFD9yY9iTrXyJkiGHcGcBAs4y9cdk8P)
+    https://solscan.io/tx/y5NnvD76Hc37btfDWETorgnEyNRMNxtN94hNUT16GjSEnR8GA42sPHerLFD9yY9iTrXyJkiGHcGcBAs4y9cdk8P
   - **2nd Buy Transaction:**  
-    [Transaction Link](https://solscan.io/tx/476Amre8d775TbemmnhokibiLj46sdsPaZz9MUKLAyn7gNW33zBToooFQTpQUS6LiUeHnwsWK9xjDEopLUzJbXa)
+    https://solscan.io/tx/476Amre8d775TbemmnhokibiLj46sdsPaZz9MUKLAyn7gNW33zBToooFQTpQUS6LiUeHnwsWK9xjDEopLUzJbXa
   - **3rd Buy Transaction:**  
-    [Transaction Link](https://solscan.io/tx/2R5n8J3uQ9f6NMAHJedcWurMWrgFJzfMuzqMQQkpFHt1jg4MKiwfPVgSDnTTsAjc9qckV8TNb1gJ8TWDdESXxyDU)
+    https://solscan.io/tx/2R5n8J3uQ9f6NMAHJedcWurMWrgFJzfMuzqMQQkpFHt1jg4MKiwfPVgSDnTTsAjc9qckV8TNb1gJ8TWDdESXxyDU
   - **4th Buy Transaction:**  
-    [Transaction Link](https://solscan.io/tx/aqPUB2ptQyTDm1Pokkj5DYEMn5aFNF1bwSjB9BDg5qxpo6AiYeaVvaUEEagB69MCmux3bQCP4mbCpP2MBjGUF1o)
+    https://solscan.io/tx/aqPUB2ptQyTDm1Pokkj5DYEMn5aFNF1bwSjB9BDg5qxpo6AiYeaVvaUEEagB69MCmux3bQCP4mbCpP2MBjGUF1o
 
 #### BUNDLE SELL
 - **Bundle Overview:**  
-  [Link to Bundle](https://explorer.jito.wtf/bundle/453cef850c8419e324328c878b0f0c54ddd4eb58aded5d743e6ffdec018fb174)
+  https://explorer.jito.wtf/bundle/453cef850c8419e324328c878b0f0c54ddd4eb58aded5d743e6ffdec018fb174
 
 ---
 
