@@ -1,0 +1,13 @@
+{
+  "name": "Solana-pumpfun-bundler",
+  "version": "1.0.0",
+  "description": "A bundler for Solana pumpfun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "@solana-web3.js": "^1.73.0"
+  }
+}
